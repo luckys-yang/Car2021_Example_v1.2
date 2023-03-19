@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/8_Car2021_Example_v1.2.iml" filepath="$PROJECT_DIR$/8_Car2021_Example_v1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/8_Car2021_Example_v1.2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/8_Car2021_Example_v1.2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/8_Car2021_Example_v1.2.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/8_Car2021_Example_v1.2.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/8_Car2021_Example_v1.2.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/8_Car2021_Example_v1.2.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/8_Car2021_Example_v1.2.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/8_Car2021_Example_v1.2.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/8_Car2021_Example_v1.2.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/8_Car2021_Example_v1.2.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/8_Car2021_Example_v1.2.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/8_Car2021_Example_v1.2.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/8_Car2021_Example_v1.2.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/8_Car2021_Example_v1.2.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/8_Car2021_Example_v1.2.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/8_Car2021_Example_v1.2.library.unitTest.iml" />
+    </modules>
+  </component>
+</project>
